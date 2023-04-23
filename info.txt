@@ -2,3 +2,4 @@ git init   //inicia el proyecto
 git status
 git add .
 git commit -m "Primer commit"
+otra
